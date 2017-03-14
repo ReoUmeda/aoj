@@ -1,1 +1,1 @@
-# aoj
+# aizu online judge
